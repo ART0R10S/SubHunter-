@@ -1,6 +1,4 @@
-p align="center">
-  <img src="https://i.imgur.com/8YZG5cs.png" alt="Subdomain Finder" width="600"/>
-</p>
+
 
 # 🕵️‍♂️ Subdomain Finder
 Ferramenta desenvolvida em *Python* para identificar e catalogar subdomínios de um domínio alvo. Ela informa se os subdomínios são *válidos ou inválidos, sendo ideal para atividades de **pentest* 🔥 e *bug bounty* 🐞💰.
